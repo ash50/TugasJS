@@ -1,0 +1,18 @@
+#bg{
+  background-color: burlywood;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+    
+}
+
+button{
+  padding: 20px 70px;
+  margin: 7px;
+  background-color: white;
+  border: none;
+  outline: none;
+  border-radius: 100px;
+}
